@@ -1,0 +1,29 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Webpage that display the weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shalakushka/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "app",
+    "api",
+    "top"
+  ],
+  "author": "Shalakushka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shalakushka/weather-app/issues"
+  },
+  "homepage": "https://github.com/Shalakushka/weather-app#readme",
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
